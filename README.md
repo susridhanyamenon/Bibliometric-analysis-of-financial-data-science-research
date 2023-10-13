@@ -28,6 +28,8 @@ Exploring Economic Activity from Outer Space - A Python Notebook for Processing 
 
 The Mutual Influence of Knowledge and Individual Wealth Growth Xia Zhou & Shaoyong Lai
 
+# Monetary Policy
+
 # News Analysis
 
 # Stock Markets
@@ -36,7 +38,6 @@ Not All Bull and Bear Markets are Alike - Insights from A Five State Hidden Semi
 
 The Wall Street Neophyte - A Zero Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges Qianqian Xie, Weiguang Han, Yanzhao Lai, Min Peng & Jimin Huang
 
-# Monetary Policy
 
 
 
